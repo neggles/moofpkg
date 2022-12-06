@@ -1,0 +1,24 @@
+[submodule "MU_BASECORE"]
+	path = MU_BASECORE
+	url = https://github.com/Microsoft/mu_basecore.git
+	branch = release/202208
+[submodule "Common/MU"]
+	path = Common/MU
+	url = https://github.com/Microsoft/mu_plus.git
+	branch = release/202208
+[submodule "Common/TIANO"]
+	path = Common/TIANO
+	url = https://github.com/Microsoft/mu_tiano_plus.git
+	branch = release/202208
+[submodule "Common/MU_OEM_SAMPLE"]
+	path = Common/MU_OEM_SAMPLE
+	url = https://github.com/microsoft/mu_oem_sample.git
+	branch = release/202208
+[submodule "Silicon/ARM/TIANO"]
+	path = Silicon/ARM/TIANO
+	url = https://github.com/microsoft/mu_silicon_arm_tiano.git
+	branch = release/202208
+[submodule "Common/MU_OEM_MOOF"]
+	path = Common/MU_OEM_MOOF
+	url = https://github.com/neggles/mu_oem_moof.git
+	branch = main
